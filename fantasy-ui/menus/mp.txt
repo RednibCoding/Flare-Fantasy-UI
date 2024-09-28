@@ -1,0 +1,13 @@
+# Settings for the hud's HP display
+# pos is x,y,width,height
+# text_pos is optional. If omitted, text will be placed in the center.
+# orientation is either 0 (horizontal) or 1 (vertical)
+
+pos=306,6,36,118
+align=bottom
+
+bar_pos=0,0,36,118
+orientation=1
+
+bar_gfx=images/menus/mp-bar.png
+bar_gfx_background=images/menus/bar-bg.png

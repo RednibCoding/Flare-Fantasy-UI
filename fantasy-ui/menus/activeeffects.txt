@@ -1,0 +1,5 @@
+APPEND
+# to menus/activeeffects.txt
+pos=0,-48,0,0
+align=bottom
+vertical=false
