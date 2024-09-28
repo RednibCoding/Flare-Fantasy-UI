@@ -5,7 +5,6 @@ Fantasy UI Mod for Flare Rpg
 ![](readme/screenshot-01.png)
 ![](readme/screenshot-02.png)
 ![](readme/screenshot-03.png)
-![](readme/screenshot-04.png)
 
 # Install
 - Copy the `fantasy-ui` folder into the mods folder of your Flare installation.
